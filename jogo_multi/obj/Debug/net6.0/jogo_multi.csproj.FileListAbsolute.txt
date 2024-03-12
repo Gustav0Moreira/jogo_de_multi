@@ -1,0 +1,15 @@
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\bin\Debug\net6.0\jogo_multi.exe
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\bin\Debug\net6.0\jogo_multi.deps.json
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\bin\Debug\net6.0\jogo_multi.runtimeconfig.json
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\bin\Debug\net6.0\jogo_multi.dll
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\bin\Debug\net6.0\jogo_multi.pdb
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\jogo_multi.csproj.AssemblyReference.cache
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\jogo_multi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\jogo_multi.AssemblyInfoInputs.cache
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\jogo_multi.AssemblyInfo.cs
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\jogo_multi.csproj.CoreCompileInputs.cache
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\jogo_multi.dll
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\refint\jogo_multi.dll
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\jogo_multi.pdb
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\jogo_multi.genruntimeconfig.cache
+C:\Users\conta\OneDrive\Área de Trabalho\Programação\C#\jogo_multi\jogo_multi\obj\Debug\net6.0\ref\jogo_multi.dll
